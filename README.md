@@ -1,5 +1,9 @@
-# lean python framework by making weather app
+# learn python framework by making weather app
 weather app using different python framework
+
+![](https://img.shields.io/github/repo-size/itsvinayak/weather-app.svg?label=Repo%20size&style=flat-square)&nbsp;
+
+
 
 > Django
 
